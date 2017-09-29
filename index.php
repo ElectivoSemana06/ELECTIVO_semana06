@@ -3,12 +3,12 @@
 class Tarea{
     
     
-    function mayorDosNumeros($n1,$n2){
+    function menorDosNumeros($n1,$n2){
         
         if($n1>$n2)
-            return $n1;
+            return $n2;
         else
-        return $n2;
+        return $n1;
         
         
         
