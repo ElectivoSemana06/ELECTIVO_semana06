@@ -23,7 +23,8 @@ class Tarea{
     
     
     
-    RICARDO SI PUEDES VER ESTO? XD 
+//    RICARDO SI PUEDES VER ESTO? XD
+//    LISTO GIAM
     
     
 }
